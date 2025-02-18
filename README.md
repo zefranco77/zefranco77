@@ -88,9 +88,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zefranco77&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thomasramos02&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zefranco77&layout=compact)
 
 ---
 
