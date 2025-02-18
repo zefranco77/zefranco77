@@ -88,7 +88,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![José Francisco GitHubstats](https://github-readme-stats.vercel.app/api?username=José+Francisco&show_icons=true&theme=radical)<br/>
+![José Francisco GitHubstats](https://github-readme-stats.vercel.app/api?username=JoséFrancisco&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thomasramos02&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
